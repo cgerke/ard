@@ -1,0 +1,6 @@
+#!/bin/bash
+# ard
+# Enable Remote Login and Remote Management.
+# chris.gerke@gmail.com
+
+exit 0
